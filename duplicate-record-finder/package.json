@@ -1,0 +1,14 @@
+{
+  "name": "duplicate-record-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^1.1.1"
+  }
+}
